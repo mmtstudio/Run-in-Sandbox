@@ -1,0 +1,14 @@
+﻿<Configuration>
+<PowerShell>
+	<Basic>沙盒中运行</Basic>
+	<Parameters>沙盒中带参数运行</Parameters>	
+</PowerShell>
+<VBS>
+	<Basic>沙盒中运行</Basic>
+	<Parameters>沙盒中带参数运行</Parameters>	
+</VBS>
+<EXE>沙盒中运行</EXE>
+<MSI>沙盒中执行安装</MSI>
+<ZIP>沙盒中解压缩</ZIP>
+<Folder>沙盒中分享该文件夹</Folder>
+</Configuration>
